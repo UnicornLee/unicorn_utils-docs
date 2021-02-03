@@ -14,6 +14,7 @@
   - git commit -m "init"
   - git push origin master
 - 发布文档: npm run doc:deploy
-- 访问在线文档: https://zxfjd3g.github.io/xxx_utils-docs/ (可能要等待一定的时间)
+- 访问在线文档: https://unicornlee.github.io/xxx_utils-docs/ (可能要等待一定的时间)
+  <br/><font color=#FF0000>**注意：这里的unicornlee（这是我的）是你的GitHub的Username。**</font>
 
 
